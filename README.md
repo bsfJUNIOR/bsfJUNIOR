@@ -22,8 +22,13 @@
 
 ## 🧰 Ferramentas
 
-![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-Workbench-orange?style=for-the-badge)
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+
+</div>
 
 ---
 
