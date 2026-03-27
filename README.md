@@ -30,17 +30,15 @@
 
 </div>
 
+
 ---
 
-## 📊 Estatísticas
+## ⚡ Atividade
 
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=bsfJUNIOR&theme=tokyonight" />
+<div>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bsfJUNIOR&show_icons=true&theme=tokyonight"/>
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsfJUNIOR&layout=compact&theme=tokyonight"/> -->
-  
-</div>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
