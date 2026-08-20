@@ -38,8 +38,13 @@
 ## ⚡ Atividade
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=bsfJUNIOR&theme=tokyonight" />
-<div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsfJUNIOR&theme=tokyonight"
+alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsfJUNIOR&theme=tokyonight"
+alt="Repos per language"/>
+
+</div>
   
 ---
 
